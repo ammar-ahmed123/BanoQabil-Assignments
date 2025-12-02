@@ -1,5 +1,5 @@
+<img width="838" height="604" alt="image" src="https://github.com/user-attachments/assets/079d7007-e0e4-4ddf-bfe1-1e81321f2205" />
 
-![alt text](image.png)
 
 # Log File Analyzer
 
