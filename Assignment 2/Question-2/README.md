@@ -1,5 +1,5 @@
+![system health monitor ss](https://github.com/user-attachments/assets/59b5abd4-f600-49b4-881e-97688d1df638)
 
-![alt text](image.png)
 
 # System Health Monitor v1.0
 
