@@ -1,0 +1,734 @@
+[2025-12-03 17:18:53] INFO Request processed
+[2025-12-02 13:24:33] WARNING SSL certificate expires in 30 days
+[2025-11-28 09:57:43] INFO Data sync completed
+[2025-12-03 09:00:37] INFO Backup completed
+[2025-12-02 04:28:09] INFO User login: user123
+[2025-11-29 08:25:44] ERROR Failed to write to disk: Permission denied
+[2025-11-28 11:06:58] INFO User login: user123
+[2025-12-02 13:42:14] WARNING Disk space low on /var partition
+[2025-12-01 01:33:30] INFO Backup completed
+[2025-11-28 15:32:44] ERROR Failed to write to disk: Permission denied
+[2025-11-29 17:33:57] INFO Cache cleared successfully
+[2025-11-27 15:15:41] ERROR Memory allocation failed
+[2025-11-27 09:32:14] INFO Metrics published
+[2025-11-29 14:22:37] INFO User login: user123
+[2025-12-02 01:19:52] WARNING Memory usage at 85%
+[2025-11-27 17:51:15] ERROR Network timeout on external service
+[2025-11-27 05:47:40] WARNING Background job timeout
+[2025-11-27 04:40:55] INFO Cache cleared successfully
+[2025-11-29 14:37:41] INFO Cache cleared successfully
+[2025-12-01 22:32:01] INFO Data sync completed
+[2025-11-29 07:49:17] INFO Metrics published
+[2025-12-02 02:11:30] WARNING High network latency detected
+[2025-11-27 15:02:18] INFO Data sync completed
+[2025-11-29 07:09:43] INFO User login: user123
+[2025-11-28 03:18:03] INFO Backup completed
+[2025-12-03 16:15:46] INFO Data sync completed
+[2025-11-29 03:38:48] INFO Session created
+[2025-12-02 01:04:56] WARNING Retry limit reached for external API
+[2025-12-02 00:16:19] INFO Service health check passed
+[2025-12-01 20:41:36] WARNING Memory usage at 85%
+[2025-11-30 18:18:35] WARNING Memory usage at 85%
+[2025-11-29 11:24:06] WARNING Retry limit reached for external API
+[2025-11-30 21:32:53] INFO Data sync completed
+[2025-12-02 05:51:30] WARNING Queue depth exceeding threshold
+[2025-12-02 12:47:17] INFO Request processed
+[2025-12-01 16:42:32] ERROR Memory allocation failed
+[2025-12-03 08:23:07] WARNING SSL certificate expires in 30 days
+[2025-12-01 05:14:35] INFO Processing batch job
+[2025-11-29 06:03:59] INFO Service health check passed
+[2025-11-29 12:08:44] WARNING Memory usage at 85%
+[2025-11-28 12:35:08] WARNING Connection pool exhausted
+[2025-11-30 12:17:12] INFO User login: user123
+[2025-12-02 18:01:30] ERROR Network timeout on external service
+[2025-11-30 01:57:15] WARNING Connection pool exhausted
+[2025-11-28 04:17:05] INFO Metrics published
+[2025-12-02 20:06:41] INFO Service health check passed
+[2025-12-02 00:22:58] INFO Metrics published
+[2025-12-02 02:45:27] WARNING Retry limit reached for external API
+[2025-12-03 05:13:57] INFO Backup completed
+[2025-11-29 07:20:32] INFO User login: user123
+[2025-11-29 17:48:22] INFO Service health check passed
+[2025-11-27 22:25:00] INFO Data sync completed
+[2025-11-30 08:48:43] WARNING Queue depth exceeding threshold
+[2025-12-01 16:41:20] INFO Processing batch job
+[2025-12-03 18:50:45] INFO Service health check passed
+[2025-12-02 19:10:46] INFO Backup completed
+[2025-11-28 23:48:20] WARNING Retry limit reached for external API
+[2025-11-30 22:16:48] WARNING High network latency detected
+[2025-12-02 07:58:50] WARNING High network latency detected
+[2025-11-28 21:49:47] INFO Cache cleared successfully
+[2025-12-01 00:43:52] WARNING SSL certificate expires in 30 days
+[2025-11-30 10:45:23] ERROR Invalid authentication token provided
+[2025-11-28 15:12:13] WARNING Connection pool exhausted
+[2025-11-30 21:03:17] ERROR API rate limit exceeded
+[2025-11-30 01:28:19] ERROR Database connection failed: timeout
+[2025-11-28 15:23:40] ERROR Invalid authentication token provided
+[2025-12-01 16:06:48] ERROR Uncaught exception: Null pointer reference
+[2025-11-30 17:45:12] WARNING Connection pool exhausted
+[2025-11-27 21:18:28] INFO Service health check passed
+[2025-11-30 20:48:38] INFO Service health check passed
+[2025-11-27 12:58:53] WARNING Queue depth exceeding threshold
+[2025-12-03 10:13:11] WARNING Retry limit reached for external API
+[2025-12-01 10:00:24] INFO Application started successfully
+[2025-12-02 05:19:21] INFO Session created
+[2025-12-01 15:31:13] INFO Data sync completed
+[2025-11-27 21:58:16] WARNING Connection pool exhausted
+[2025-11-29 11:33:37] INFO Metrics published
+[2025-12-03 15:58:57] INFO Data sync completed
+[2025-11-28 03:44:56] INFO Application started successfully
+[2025-11-30 14:11:01] INFO Service health check passed
+[2025-11-29 01:53:07] WARNING Memory usage at 85%
+[2025-11-27 04:46:15] INFO Session created
+[2025-12-02 21:27:05] ERROR Memory allocation failed
+[2025-11-27 09:23:38] ERROR Invalid authentication token provided
+[2025-11-28 23:08:59] INFO User login: user123
+[2025-12-03 14:09:25] WARNING SSL certificate expires in 30 days
+[2025-12-02 09:22:49] INFO User login: user123
+[2025-12-03 18:49:01] INFO User login: user123
+[2025-12-01 20:34:11] INFO Backup completed
+[2025-11-27 15:18:43] INFO Service health check passed
+[2025-11-27 23:57:50] ERROR Failed to write to disk: Permission denied
+[2025-11-30 17:46:41] INFO Session created
+[2025-12-03 19:25:09] INFO Metrics published
+[2025-11-30 06:31:00] INFO Data sync completed
+[2025-12-01 05:13:57] ERROR Failed to write to disk: Permission denied
+[2025-11-30 05:50:15] INFO Service health check passed
+[2025-11-29 03:58:23] INFO Application started successfully
+[2025-12-01 13:41:13] INFO Application started successfully
+[2025-12-03 07:56:30] INFO Backup completed
+[2025-11-30 16:34:33] INFO Service health check passed
+[2025-11-28 21:23:49] INFO Service health check passed
+[2025-11-27 05:34:32] INFO Data sync completed
+[2025-12-02 07:57:48] INFO Backup completed
+[2025-12-01 13:45:35] INFO Request processed
+[2025-11-27 04:42:47] WARNING Connection pool exhausted
+[2025-11-27 01:03:55] WARNING Background job timeout
+[2025-11-27 22:05:12] ERROR Configuration file not found
+[2025-11-30 08:15:17] INFO Service health check passed
+[2025-11-30 18:31:07] WARNING High network latency detected
+[2025-12-02 15:58:42] WARNING Memory usage at 85%
+[2025-11-30 14:22:56] INFO Application started successfully
+[2025-11-27 23:38:12] WARNING High network latency detected
+[2025-12-03 18:18:12] INFO Backup completed
+[2025-11-29 04:53:21] INFO Processing batch job
+[2025-12-02 05:33:51] INFO Backup completed
+[2025-11-29 18:56:50] INFO Session created
+[2025-11-28 17:49:58] INFO Application started successfully
+[2025-11-29 13:25:12] ERROR Database connection failed: timeout
+[2025-11-29 01:50:03] ERROR Memory allocation failed
+[2025-12-02 03:24:40] WARNING SSL certificate expires in 30 days
+[2025-11-29 17:00:32] INFO User login: user123
+[2025-11-29 04:47:04] INFO Metrics published
+[2025-11-28 15:17:43] ERROR Uncaught exception: Null pointer reference
+[2025-12-01 17:49:43] INFO Application started successfully
+[2025-12-01 12:28:31] WARNING Queue depth exceeding threshold
+[2025-11-28 17:30:11] WARNING Queue depth exceeding threshold
+[2025-11-30 00:24:51] INFO Application started successfully
+[2025-11-28 21:19:44] WARNING Queue depth exceeding threshold
+[2025-11-27 16:02:37] INFO Backup completed
+[2025-11-30 00:21:29] WARNING Connection pool exhausted
+[2025-11-30 09:23:12] ERROR Uncaught exception: Null pointer reference
+[2025-12-02 04:01:34] INFO Service health check passed
+[2025-12-01 15:59:41] INFO Request processed
+[2025-11-30 07:37:31] INFO Data sync completed
+[2025-12-03 12:03:35] WARNING High network latency detected
+[2025-12-01 07:16:19] WARNING Disk space low on /var partition
+[2025-12-01 11:16:25] INFO Metrics published
+[2025-11-30 13:20:20] INFO Request processed
+[2025-12-03 05:14:30] INFO Metrics published
+[2025-11-27 11:36:55] INFO Application started successfully
+[2025-12-01 13:14:24] INFO Cache cleared successfully
+[2025-11-28 10:07:35] WARNING Queue depth exceeding threshold
+[2025-12-02 05:54:55] INFO Processing batch job
+[2025-11-29 19:49:32] ERROR API rate limit exceeded
+[2025-11-28 05:34:43] INFO Session created
+[2025-12-01 16:25:06] WARNING SSL certificate expires in 30 days
+[2025-12-03 12:43:34] WARNING Background job timeout
+[2025-11-29 06:28:39] INFO Service health check passed
+[2025-11-28 12:07:55] INFO Service health check passed
+[2025-11-30 14:37:24] INFO Backup completed
+[2025-11-30 18:07:44] WARNING Connection pool exhausted
+[2025-12-02 19:13:36] INFO Data sync completed
+[2025-12-01 18:31:35] ERROR Invalid authentication token provided
+[2025-11-28 11:11:47] INFO Metrics published
+[2025-12-02 07:30:24] INFO Application started successfully
+[2025-12-03 19:57:27] WARNING Memory usage at 85%
+[2025-11-30 19:42:11] WARNING SSL certificate expires in 30 days
+[2025-11-28 17:32:46] ERROR Uncaught exception: Null pointer reference
+[2025-11-30 01:38:34] INFO Cache cleared successfully
+[2025-12-03 14:37:27] INFO Metrics published
+[2025-11-29 13:26:07] WARNING SSL certificate expires in 30 days
+[2025-12-01 14:38:01] WARNING Queue depth exceeding threshold
+[2025-12-03 03:06:16] WARNING Disk space low on /var partition
+[2025-12-03 22:17:44] INFO Processing batch job
+[2025-11-30 19:04:35] INFO Backup completed
+[2025-12-03 07:56:48] INFO Cache cleared successfully
+[2025-12-01 11:42:18] INFO Application started successfully
+[2025-11-30 17:21:33] WARNING SSL certificate expires in 30 days
+[2025-11-28 20:58:02] WARNING Retry limit reached for external API
+[2025-11-29 03:57:53] WARNING Retry limit reached for external API
+[2025-11-29 03:54:00] INFO Metrics published
+[2025-11-28 20:51:22] INFO Cache cleared successfully
+[2025-12-03 21:10:36] INFO Request processed
+[2025-11-27 22:57:56] INFO User login: user123
+[2025-11-27 16:25:09] WARNING Background job timeout
+[2025-11-28 16:22:27] WARNING Queue depth exceeding threshold
+[2025-11-28 05:41:35] INFO Session created
+[2025-12-03 13:02:47] WARNING Background job timeout
+[2025-11-30 15:36:00] INFO Data sync completed
+[2025-11-28 00:39:54] WARNING Connection pool exhausted
+[2025-12-03 11:29:51] INFO Processing batch job
+[2025-12-01 04:53:07] ERROR Database connection failed: timeout
+[2025-11-30 19:02:05] INFO Cache cleared successfully
+[2025-11-30 14:50:33] ERROR API rate limit exceeded
+[2025-12-01 21:23:32] WARNING SSL certificate expires in 30 days
+[2025-12-02 07:45:14] INFO Backup completed
+[2025-12-03 17:10:41] WARNING High network latency detected
+[2025-12-03 01:55:34] INFO Session created
+[2025-12-02 20:35:27] WARNING Background job timeout
+[2025-12-01 08:25:59] ERROR Memory allocation failed
+[2025-11-29 05:31:40] WARNING Disk space low on /var partition
+[2025-12-01 00:10:37] WARNING Retry limit reached for external API
+[2025-12-01 09:23:05] ERROR Network timeout on external service
+[2025-12-03 08:35:24] WARNING Queue depth exceeding threshold
+[2025-11-30 08:39:03] ERROR Database connection failed: timeout
+[2025-11-29 12:02:37] WARNING SSL certificate expires in 30 days
+[2025-12-02 11:19:28] WARNING High network latency detected
+[2025-11-29 22:43:29] WARNING High network latency detected
+[2025-11-30 04:22:52] WARNING Background job timeout
+[2025-12-02 16:29:04] ERROR Configuration file not found
+[2025-11-30 00:28:00] WARNING Memory usage at 85%
+[2025-12-03 20:36:07] ERROR Database connection failed: timeout
+[2025-12-01 12:48:13] INFO Cache cleared successfully
+[2025-12-03 02:18:57] INFO User login: user123
+[2025-12-01 09:59:59] WARNING Background job timeout
+[2025-11-27 21:40:20] WARNING High network latency detected
+[2025-11-28 07:53:27] INFO Session created
+[2025-12-01 02:57:09] WARNING Connection pool exhausted
+[2025-11-29 11:40:02] ERROR Uncaught exception: Null pointer reference
+[2025-12-01 15:08:37] INFO Cache cleared successfully
+[2025-11-29 09:32:03] INFO Backup completed
+[2025-12-02 03:02:24] WARNING Queue depth exceeding threshold
+[2025-12-02 03:57:47] INFO User login: user123
+[2025-12-03 17:38:13] ERROR Database connection failed: timeout
+[2025-11-29 05:34:36] ERROR Invalid authentication token provided
+[2025-12-02 13:05:05] WARNING Memory usage at 85%
+[2025-11-29 11:27:19] ERROR Failed to write to disk: Permission denied
+[2025-11-30 02:12:01] ERROR Failed to write to disk: Permission denied
+[2025-12-02 14:10:48] INFO Data sync completed
+[2025-11-30 20:47:08] INFO Cache cleared successfully
+[2025-11-29 19:45:31] ERROR Failed to write to disk: Permission denied
+[2025-11-27 07:00:37] INFO Data sync completed
+[2025-11-30 01:03:16] ERROR Invalid authentication token provided
+[2025-12-03 05:24:09] INFO Application started successfully
+[2025-11-28 02:31:03] INFO Request processed
+[2025-11-29 00:04:59] INFO Application started successfully
+[2025-11-27 23:39:15] INFO Data sync completed
+[2025-11-30 21:56:26] INFO Session created
+[2025-12-01 14:35:03] WARNING Memory usage at 85%
+[2025-11-28 20:13:55] ERROR Memory allocation failed
+[2025-12-03 10:11:23] ERROR Uncaught exception: Null pointer reference
+[2025-11-29 17:18:44] WARNING SSL certificate expires in 30 days
+[2025-12-03 22:10:06] WARNING Disk space low on /var partition
+[2025-12-02 15:36:36] ERROR Database connection failed: timeout
+[2025-11-29 04:51:24] INFO Processing batch job
+[2025-11-27 07:48:08] WARNING SSL certificate expires in 30 days
+[2025-11-28 21:56:12] INFO Processing batch job
+[2025-12-01 23:52:33] WARNING Connection pool exhausted
+[2025-11-29 14:00:39] INFO Processing batch job
+[2025-12-02 20:03:30] INFO Application started successfully
+[2025-11-29 15:23:53] INFO Application started successfully
+[2025-12-03 10:59:28] INFO Processing batch job
+[2025-11-29 19:11:13] ERROR Memory allocation failed
+[2025-11-29 09:17:18] INFO Metrics published
+[2025-12-01 20:58:07] WARNING Retry limit reached for external API
+[2025-11-30 05:33:29] INFO Application started successfully
+[2025-11-30 20:22:49] WARNING Queue depth exceeding threshold
+[2025-11-30 11:34:21] INFO Processing batch job
+[2025-12-01 17:10:03] ERROR Invalid authentication token provided
+[2025-11-29 12:57:19] INFO Session created
+[2025-12-03 01:14:25] INFO Backup completed
+[2025-12-01 22:13:36] WARNING Background job timeout
+[2025-12-02 02:08:20] INFO Service health check passed
+[2025-11-29 09:17:48] ERROR API rate limit exceeded
+[2025-12-03 00:30:09] WARNING High network latency detected
+[2025-11-28 21:30:45] ERROR Uncaught exception: Null pointer reference
+[2025-12-01 11:57:11] INFO Processing batch job
+[2025-12-03 09:06:18] ERROR Failed to write to disk: Permission denied
+[2025-11-30 08:24:31] ERROR Uncaught exception: Null pointer reference
+[2025-11-28 09:07:36] WARNING Queue depth exceeding threshold
+[2025-11-29 03:56:35] INFO Service health check passed
+[2025-11-30 22:54:29] INFO Processing batch job
+[2025-12-01 07:59:36] WARNING High network latency detected
+[2025-11-27 11:03:51] ERROR Configuration file not found
+[2025-11-28 00:39:44] INFO User login: user123
+[2025-12-01 13:38:11] ERROR Database connection failed: timeout
+[2025-12-01 19:55:25] WARNING SSL certificate expires in 30 days
+[2025-11-27 19:57:42] INFO Service health check passed
+[2025-11-27 22:30:48] WARNING Retry limit reached for external API
+[2025-11-28 00:13:36] ERROR Failed to write to disk: Permission denied
+[2025-11-30 08:21:33] WARNING High network latency detected
+[2025-11-27 12:22:21] INFO Data sync completed
+[2025-12-03 12:58:29] INFO Session created
+[2025-12-01 13:46:02] ERROR Invalid authentication token provided
+[2025-11-30 07:26:55] INFO Data sync completed
+[2025-12-03 16:57:16] ERROR Configuration file not found
+[2025-12-02 22:00:36] INFO Cache cleared successfully
+[2025-11-28 18:32:50] INFO User login: user123
+[2025-11-27 12:58:39] INFO Service health check passed
+[2025-12-02 11:10:24] WARNING Disk space low on /var partition
+[2025-11-29 11:01:00] WARNING Queue depth exceeding threshold
+[2025-11-29 04:34:13] INFO Backup completed
+[2025-12-01 08:36:45] INFO Metrics published
+[2025-11-30 17:19:32] WARNING Background job timeout
+[2025-11-29 12:34:47] INFO Service health check passed
+[2025-11-29 04:27:37] ERROR Memory allocation failed
+[2025-11-30 18:27:38] ERROR Invalid authentication token provided
+[2025-12-02 21:10:20] ERROR Uncaught exception: Null pointer reference
+[2025-11-27 09:02:59] WARNING Disk space low on /var partition
+[2025-12-02 06:04:34] INFO Processing batch job
+[2025-12-01 01:19:07] ERROR Network timeout on external service
+[2025-11-30 19:46:15] ERROR Uncaught exception: Null pointer reference
+[2025-12-03 22:36:51] INFO Backup completed
+[2025-11-30 17:12:07] INFO Request processed
+[2025-11-27 01:43:44] ERROR Configuration file not found
+[2025-11-29 16:17:05] INFO Session created
+[2025-12-02 04:47:27] WARNING SSL certificate expires in 30 days
+[2025-11-30 02:39:17] ERROR Failed to write to disk: Permission denied
+[2025-12-01 12:17:18] INFO Application started successfully
+[2025-12-03 16:41:12] WARNING SSL certificate expires in 30 days
+[2025-12-02 08:33:04] ERROR API rate limit exceeded
+[2025-11-29 12:10:30] ERROR Network timeout on external service
+[2025-11-27 18:24:19] INFO Session created
+[2025-11-28 19:53:56] WARNING SSL certificate expires in 30 days
+[2025-11-29 21:44:18] INFO Application started successfully
+[2025-11-27 08:39:18] INFO Request processed
+[2025-11-27 19:30:39] ERROR Database connection failed: timeout
+[2025-11-29 11:29:55] INFO Request processed
+[2025-11-30 17:51:34] WARNING Memory usage at 85%
+[2025-12-03 13:17:13] WARNING Background job timeout
+[2025-11-30 01:29:16] INFO Session created
+[2025-12-01 16:47:18] ERROR Database connection failed: timeout
+[2025-12-01 07:59:55] INFO Application started successfully
+[2025-11-29 22:46:36] WARNING Background job timeout
+[2025-11-30 23:23:06] INFO Processing batch job
+[2025-11-30 01:44:57] WARNING Background job timeout
+[2025-12-02 20:47:14] WARNING Disk space low on /var partition
+[2025-11-29 00:04:41] INFO Data sync completed
+[2025-11-27 18:30:41] ERROR API rate limit exceeded
+[2025-12-02 07:48:43] INFO Application started successfully
+[2025-11-29 17:55:04] WARNING Disk space low on /var partition
+[2025-11-29 01:48:01] WARNING SSL certificate expires in 30 days
+[2025-12-02 19:20:36] INFO User login: user123
+[2025-12-03 10:38:17] INFO Session created
+[2025-11-30 05:48:31] INFO Backup completed
+[2025-11-28 16:02:33] INFO Application started successfully
+[2025-11-30 19:51:45] ERROR Database connection failed: timeout
+[2025-11-27 14:55:13] ERROR Uncaught exception: Null pointer reference
+[2025-12-01 10:57:16] INFO User login: user123
+[2025-11-29 00:32:47] WARNING Disk space low on /var partition
+[2025-11-27 11:55:58] INFO Metrics published
+[2025-12-01 08:34:52] INFO User login: user123
+[2025-12-03 16:59:58] INFO Session created
+[2025-12-01 04:13:40] ERROR API rate limit exceeded
+[2025-12-01 17:55:44] INFO Processing batch job
+[2025-11-27 22:25:00] ERROR Configuration file not found
+[2025-11-28 11:36:27] INFO Processing batch job
+[2025-12-01 02:57:14] INFO Processing batch job
+[2025-11-29 18:13:47] WARNING Retry limit reached for external API
+[2025-11-28 04:09:19] WARNING Memory usage at 85%
+[2025-12-01 21:58:21] ERROR Memory allocation failed
+[2025-11-29 10:07:23] WARNING Disk space low on /var partition
+[2025-12-03 11:02:24] ERROR Uncaught exception: Null pointer reference
+[2025-11-30 22:45:23] INFO Cache cleared successfully
+[2025-12-01 00:23:49] WARNING Memory usage at 85%
+[2025-12-02 08:56:34] INFO User login: user123
+[2025-12-02 15:31:20] WARNING Background job timeout
+[2025-12-01 08:49:55] WARNING Disk space low on /var partition
+[2025-11-30 22:29:11] INFO Session created
+[2025-12-03 03:24:56] WARNING Connection pool exhausted
+[2025-11-29 12:44:16] INFO Application started successfully
+[2025-11-29 04:52:23] ERROR Network timeout on external service
+[2025-11-30 02:48:07] INFO Request processed
+[2025-12-02 16:00:28] WARNING Background job timeout
+[2025-12-02 18:57:16] INFO Data sync completed
+[2025-11-30 12:15:06] INFO Request processed
+[2025-12-02 23:52:48] INFO Backup completed
+[2025-11-29 06:34:24] INFO Request processed
+[2025-11-29 18:52:31] INFO Data sync completed
+[2025-11-27 15:48:39] WARNING SSL certificate expires in 30 days
+[2025-11-28 10:54:33] INFO Backup completed
+[2025-11-28 16:28:30] INFO Metrics published
+[2025-12-03 09:28:20] INFO Backup completed
+[2025-11-29 17:39:01] WARNING Connection pool exhausted
+[2025-12-02 23:20:48] INFO Backup completed
+[2025-11-27 07:14:12] INFO Data sync completed
+[2025-12-02 08:13:55] INFO Cache cleared successfully
+[2025-12-01 08:03:31] ERROR Uncaught exception: Null pointer reference
+[2025-12-01 12:21:42] INFO Service health check passed
+[2025-11-29 01:09:27] INFO Processing batch job
+[2025-12-01 00:42:18] INFO Session created
+[2025-11-28 18:48:29] ERROR Database connection failed: timeout
+[2025-11-28 10:23:25] ERROR Failed to write to disk: Permission denied
+[2025-12-03 11:36:53] INFO Request processed
+[2025-11-30 03:36:58] INFO Cache cleared successfully
+[2025-12-03 04:44:10] WARNING SSL certificate expires in 30 days
+[2025-12-02 11:11:12] WARNING Memory usage at 85%
+[2025-12-02 19:27:35] INFO Metrics published
+[2025-11-28 18:22:52] INFO Metrics published
+[2025-12-01 10:08:19] INFO Metrics published
+[2025-11-27 07:48:19] ERROR Uncaught exception: Null pointer reference
+[2025-11-28 16:25:54] INFO Data sync completed
+[2025-11-29 15:57:51] WARNING Queue depth exceeding threshold
+[2025-11-30 00:37:15] INFO Processing batch job
+[2025-12-01 05:46:05] ERROR Uncaught exception: Null pointer reference
+[2025-11-29 05:07:09] INFO Session created
+[2025-11-27 23:15:00] INFO Data sync completed
+[2025-11-30 19:48:55] INFO User login: user123
+[2025-11-28 13:50:01] WARNING Queue depth exceeding threshold
+[2025-11-30 03:07:51] INFO Session created
+[2025-11-28 12:29:41] WARNING High network latency detected
+[2025-11-27 22:14:35] WARNING Retry limit reached for external API
+[2025-11-29 20:17:21] INFO User login: user123
+[2025-12-03 11:16:21] WARNING Queue depth exceeding threshold
+[2025-11-28 21:33:13] ERROR API rate limit exceeded
+[2025-12-02 00:20:36] INFO Metrics published
+[2025-12-01 14:00:50] INFO Request processed
+[2025-12-02 07:46:31] INFO Service health check passed
+[2025-11-29 01:19:33] WARNING High network latency detected
+[2025-11-30 17:51:37] INFO Data sync completed
+[2025-11-27 04:01:40] ERROR Memory allocation failed
+[2025-12-01 05:55:04] WARNING Disk space low on /var partition
+[2025-11-29 11:31:01] ERROR Memory allocation failed
+[2025-12-01 00:05:08] INFO Cache cleared successfully
+[2025-11-28 02:38:17] WARNING SSL certificate expires in 30 days
+[2025-12-02 14:28:39] INFO Processing batch job
+[2025-12-02 10:50:59] ERROR Network timeout on external service
+[2025-11-28 16:24:25] ERROR Database connection failed: timeout
+[2025-11-29 23:42:09] WARNING Retry limit reached for external API
+[2025-12-02 10:35:57] INFO Request processed
+[2025-12-03 00:52:31] WARNING SSL certificate expires in 30 days
+[2025-11-29 19:35:41] INFO Cache cleared successfully
+[2025-11-30 10:34:14] ERROR API rate limit exceeded
+[2025-12-01 13:42:16] WARNING Connection pool exhausted
+[2025-11-27 13:32:40] INFO Service health check passed
+[2025-12-02 23:41:57] INFO Metrics published
+[2025-12-02 17:48:46] ERROR Network timeout on external service
+[2025-11-27 02:48:41] INFO Metrics published
+[2025-12-01 06:51:14] INFO Data sync completed
+[2025-11-28 10:36:01] INFO Application started successfully
+[2025-12-02 14:05:20] INFO Metrics published
+[2025-11-30 20:48:55] INFO Cache cleared successfully
+[2025-11-27 23:52:32] INFO Backup completed
+[2025-12-01 07:28:24] INFO User login: user123
+[2025-11-28 03:16:11] INFO Service health check passed
+[2025-12-03 17:45:32] INFO Metrics published
+[2025-11-30 13:04:42] INFO Application started successfully
+[2025-11-27 12:46:32] WARNING Disk space low on /var partition
+[2025-11-28 14:04:42] INFO User login: user123
+[2025-11-30 23:45:05] INFO Service health check passed
+[2025-11-29 16:47:13] INFO User login: user123
+[2025-11-27 03:06:11] ERROR Memory allocation failed
+[2025-12-02 22:16:07] WARNING Disk space low on /var partition
+[2025-12-01 21:15:33] WARNING Queue depth exceeding threshold
+[2025-12-02 18:48:16] INFO Backup completed
+[2025-11-27 09:00:02] INFO Session created
+[2025-12-02 12:10:37] WARNING Memory usage at 85%
+[2025-12-01 22:41:20] INFO Session created
+[2025-12-01 06:53:42] WARNING Background job timeout
+[2025-11-29 05:58:51] WARNING Disk space low on /var partition
+[2025-12-03 14:22:17] INFO Data sync completed
+[2025-12-03 15:21:53] WARNING SSL certificate expires in 30 days
+[2025-12-02 14:01:46] WARNING SSL certificate expires in 30 days
+[2025-11-30 19:11:59] INFO Service health check passed
+[2025-11-27 06:11:34] ERROR Failed to write to disk: Permission denied
+[2025-12-02 19:21:36] INFO Data sync completed
+[2025-12-01 22:27:57] INFO Processing batch job
+[2025-12-01 21:21:17] WARNING High network latency detected
+[2025-12-01 07:04:53] WARNING Background job timeout
+[2025-12-01 06:38:17] ERROR Configuration file not found
+[2025-11-29 00:53:43] WARNING Queue depth exceeding threshold
+[2025-11-28 16:45:07] INFO Processing batch job
+[2025-12-03 01:58:26] ERROR Network timeout on external service
+[2025-12-02 05:06:13] WARNING SSL certificate expires in 30 days
+[2025-11-30 21:58:03] WARNING Retry limit reached for external API
+[2025-12-03 14:40:54] WARNING Connection pool exhausted
+[2025-11-27 10:35:46] ERROR Configuration file not found
+[2025-11-30 21:07:51] ERROR Failed to write to disk: Permission denied
+[2025-11-30 04:25:40] INFO Cache cleared successfully
+[2025-11-29 07:08:30] INFO Backup completed
+[2025-12-03 09:53:10] INFO User login: user123
+[2025-12-03 06:57:36] INFO Request processed
+[2025-11-28 15:42:06] INFO Request processed
+[2025-11-27 06:50:57] INFO Processing batch job
+[2025-11-30 07:59:29] ERROR Network timeout on external service
+[2025-12-02 19:23:45] INFO Request processed
+[2025-12-02 08:23:32] WARNING Disk space low on /var partition
+[2025-11-27 01:57:37] INFO Processing batch job
+[2025-11-28 03:38:50] WARNING Queue depth exceeding threshold
+[2025-12-01 18:03:53] WARNING SSL certificate expires in 30 days
+[2025-12-03 04:15:26] WARNING Disk space low on /var partition
+[2025-11-30 18:47:26] WARNING Memory usage at 85%
+[2025-12-03 07:53:26] INFO Backup completed
+[2025-11-30 23:58:19] INFO Request processed
+[2025-11-28 18:57:32] WARNING Memory usage at 85%
+[2025-11-29 08:48:35] ERROR Failed to write to disk: Permission denied
+[2025-11-28 15:29:25] INFO Application started successfully
+[2025-11-30 02:02:30] WARNING SSL certificate expires in 30 days
+[2025-12-03 13:41:42] INFO Metrics published
+[2025-11-27 05:55:08] INFO Application started successfully
+[2025-11-27 00:37:44] WARNING SSL certificate expires in 30 days
+[2025-11-27 16:18:38] INFO Data sync completed
+[2025-11-28 05:58:46] WARNING Memory usage at 85%
+[2025-11-28 22:43:42] ERROR Memory allocation failed
+[2025-11-29 00:49:16] INFO Backup completed
+[2025-11-29 19:41:36] WARNING Background job timeout
+[2025-11-27 13:58:56] INFO Backup completed
+[2025-12-02 01:23:16] ERROR Network timeout on external service
+[2025-12-03 09:20:56] ERROR Network timeout on external service
+[2025-12-01 16:21:08] WARNING Memory usage at 85%
+[2025-11-30 04:44:12] ERROR Memory allocation failed
+[2025-11-28 02:30:23] INFO Request processed
+[2025-12-01 04:54:50] WARNING Disk space low on /var partition
+[2025-11-29 14:19:41] WARNING Memory usage at 85%
+[2025-12-01 13:17:32] INFO Service health check passed
+[2025-12-03 19:17:01] WARNING Queue depth exceeding threshold
+[2025-11-30 00:55:35] ERROR Failed to write to disk: Permission denied
+[2025-12-02 19:27:38] INFO Application started successfully
+[2025-11-28 17:06:32] ERROR API rate limit exceeded
+[2025-12-03 06:50:39] INFO Processing batch job
+[2025-11-30 12:44:53] INFO User login: user123
+[2025-11-27 20:17:41] WARNING Retry limit reached for external API
+[2025-11-27 18:54:58] WARNING Disk space low on /var partition
+[2025-11-28 23:16:05] ERROR Invalid authentication token provided
+[2025-11-28 17:26:00] INFO Cache cleared successfully
+[2025-12-01 00:37:34] INFO Service health check passed
+[2025-11-29 02:15:42] ERROR Uncaught exception: Null pointer reference
+[2025-12-01 07:26:32] WARNING SSL certificate expires in 30 days
+[2025-11-29 20:37:15] WARNING Memory usage at 85%
+[2025-11-28 15:16:18] INFO Session created
+[2025-12-01 02:59:10] INFO Metrics published
+[2025-12-03 17:01:32] WARNING Memory usage at 85%
+[2025-12-02 10:46:27] INFO Processing batch job
+[2025-12-03 17:20:36] INFO Data sync completed
+[2025-11-28 04:04:42] WARNING Retry limit reached for external API
+[2025-11-29 07:53:22] INFO Cache cleared successfully
+[2025-11-29 06:13:34] INFO Application started successfully
+[2025-12-02 22:40:57] INFO Session created
+[2025-12-02 14:27:41] INFO Request processed
+[2025-11-27 18:39:58] INFO Request processed
+[2025-12-02 16:32:21] ERROR Memory allocation failed
+[2025-12-03 11:56:06] INFO Metrics published
+[2025-12-01 02:36:13] INFO Data sync completed
+[2025-11-29 11:14:01] ERROR Invalid authentication token provided
+[2025-11-30 14:35:20] WARNING Background job timeout
+[2025-12-03 07:44:44] INFO Processing batch job
+[2025-11-29 02:44:30] INFO Session created
+[2025-11-27 02:57:04] INFO Cache cleared successfully
+[2025-11-28 16:17:46] WARNING Queue depth exceeding threshold
+[2025-12-01 03:28:05] ERROR Uncaught exception: Null pointer reference
+[2025-11-27 21:21:21] WARNING Memory usage at 85%
+[2025-12-01 17:20:27] INFO Request processed
+[2025-12-03 01:27:29] ERROR Memory allocation failed
+[2025-11-27 01:26:05] ERROR Memory allocation failed
+[2025-11-27 08:06:25] INFO Metrics published
+[2025-11-28 08:32:23] INFO Request processed
+[2025-11-29 06:29:08] INFO Data sync completed
+[2025-11-30 00:43:38] WARNING Disk space low on /var partition
+[2025-12-03 19:19:02] INFO Data sync completed
+[2025-11-29 17:50:53] WARNING Memory usage at 85%
+[2025-11-30 02:02:40] INFO Application started successfully
+[2025-11-27 19:20:31] INFO Data sync completed
+[2025-11-30 19:52:28] ERROR Network timeout on external service
+[2025-11-29 07:28:14] ERROR Failed to write to disk: Permission denied
+[2025-11-29 11:16:55] INFO Metrics published
+[2025-11-27 19:59:30] INFO Cache cleared successfully
+[2025-12-02 15:16:22] ERROR Network timeout on external service
+[2025-12-01 23:12:59] INFO Application started successfully
+[2025-12-02 04:54:27] INFO Metrics published
+[2025-12-01 13:39:22] INFO Request processed
+[2025-11-30 00:02:20] WARNING Background job timeout
+[2025-12-01 14:57:47] INFO Data sync completed
+[2025-11-28 02:12:59] INFO Metrics published
+[2025-11-30 01:21:16] INFO Metrics published
+[2025-11-27 15:40:27] WARNING SSL certificate expires in 30 days
+[2025-12-01 05:31:02] INFO Service health check passed
+[2025-11-28 03:42:14] INFO Backup completed
+[2025-11-27 03:19:19] INFO Session created
+[2025-11-27 03:04:31] ERROR Memory allocation failed
+[2025-11-29 10:22:59] ERROR Memory allocation failed
+[2025-11-28 19:48:18] ERROR Failed to write to disk: Permission denied
+[2025-11-28 13:02:35] WARNING Background job timeout
+[2025-12-02 15:25:51] INFO Processing batch job
+[2025-12-02 02:00:46] INFO Application started successfully
+[2025-11-28 16:04:56] WARNING Connection pool exhausted
+[2025-11-27 02:44:55] ERROR Invalid authentication token provided
+[2025-12-01 07:08:41] INFO Session created
+[2025-11-28 09:48:08] INFO Metrics published
+[2025-11-29 04:10:22] WARNING Disk space low on /var partition
+[2025-11-30 13:27:22] INFO Service health check passed
+[2025-12-02 15:12:58] WARNING Connection pool exhausted
+[2025-11-28 01:43:19] WARNING SSL certificate expires in 30 days
+[2025-12-03 20:49:57] WARNING Queue depth exceeding threshold
+[2025-12-02 02:28:48] INFO Processing batch job
+[2025-12-02 20:05:35] WARNING High network latency detected
+[2025-11-29 17:14:17] ERROR Invalid authentication token provided
+[2025-12-02 05:14:03] WARNING High network latency detected
+[2025-11-27 22:05:29] ERROR Network timeout on external service
+[2025-12-02 11:03:01] INFO Metrics published
+[2025-11-28 01:56:47] INFO Backup completed
+[2025-12-03 01:06:10] ERROR Configuration file not found
+[2025-12-01 06:08:30] WARNING Retry limit reached for external API
+[2025-11-30 04:18:16] INFO Service health check passed
+[2025-11-27 18:01:05] WARNING Disk space low on /var partition
+[2025-11-30 14:18:28] ERROR API rate limit exceeded
+[2025-12-01 16:09:30] WARNING SSL certificate expires in 30 days
+[2025-12-01 05:13:19] INFO Cache cleared successfully
+[2025-11-29 08:31:53] WARNING High network latency detected
+[2025-12-03 23:44:42] INFO Cache cleared successfully
+[2025-11-27 19:08:54] INFO Application started successfully
+[2025-11-29 21:22:25] ERROR Uncaught exception: Null pointer reference
+[2025-11-29 14:29:40] WARNING High network latency detected
+[2025-11-29 04:02:11] INFO Service health check passed
+[2025-11-27 00:49:11] INFO Session created
+[2025-12-02 16:50:34] WARNING High network latency detected
+[2025-11-30 09:25:14] INFO Service health check passed
+[2025-11-29 06:13:56] INFO Cache cleared successfully
+[2025-11-29 21:26:41] INFO Application started successfully
+[2025-11-28 19:36:37] INFO Service health check passed
+[2025-11-27 05:36:32] WARNING High network latency detected
+[2025-11-28 23:28:36] INFO Service health check passed
+[2025-11-28 05:57:46] INFO Metrics published
+[2025-12-02 23:37:46] INFO Backup completed
+[2025-11-30 17:06:10] WARNING Memory usage at 85%
+[2025-12-01 22:35:37] INFO User login: user123
+[2025-11-30 01:11:59] WARNING Retry limit reached for external API
+[2025-11-30 19:24:32] WARNING Retry limit reached for external API
+[2025-11-27 13:39:58] ERROR Memory allocation failed
+[2025-11-29 02:50:39] ERROR Network timeout on external service
+[2025-12-01 07:01:15] ERROR API rate limit exceeded
+[2025-12-03 18:41:58] WARNING High network latency detected
+[2025-11-27 20:44:37] WARNING Connection pool exhausted
+[2025-11-28 21:02:40] INFO Data sync completed
+[2025-12-01 11:27:24] WARNING High network latency detected
+[2025-11-27 19:19:42] INFO Cache cleared successfully
+[2025-11-29 19:14:13] INFO Backup completed
+[2025-11-28 07:29:33] INFO Service health check passed
+[2025-12-02 01:08:30] INFO Application started successfully
+[2025-11-29 21:03:28] WARNING High network latency detected
+[2025-12-01 10:23:05] WARNING Connection pool exhausted
+[2025-12-02 06:07:59] ERROR Memory allocation failed
+[2025-11-27 04:05:16] WARNING Connection pool exhausted
+[2025-11-27 12:31:45] ERROR Failed to write to disk: Permission denied
+[2025-12-03 18:06:08] INFO Metrics published
+[2025-12-02 15:06:58] ERROR API rate limit exceeded
+[2025-11-27 00:39:47] WARNING High network latency detected
+[2025-11-30 09:57:16] WARNING High network latency detected
+[2025-12-01 03:22:01] ERROR Uncaught exception: Null pointer reference
+[2025-11-29 04:23:11] INFO Cache cleared successfully
+[2025-11-30 08:55:45] WARNING SSL certificate expires in 30 days
+[2025-12-02 08:45:05] INFO Session created
+[2025-11-30 10:03:55] INFO Data sync completed
+[2025-11-28 05:54:08] INFO Data sync completed
+[2025-12-02 00:38:29] INFO Metrics published
+[2025-11-30 21:21:16] INFO Service health check passed
+[2025-12-03 07:36:22] ERROR Failed to write to disk: Permission denied
+[2025-11-28 16:51:08] WARNING High network latency detected
+[2025-11-29 17:29:20] ERROR Memory allocation failed
+[2025-11-30 01:50:30] INFO Session created
+[2025-12-01 02:50:54] ERROR Failed to write to disk: Permission denied
+[2025-12-02 16:21:25] INFO Application started successfully
+[2025-12-01 21:26:37] INFO Backup completed
+[2025-12-01 15:00:25] INFO Processing batch job
+[2025-12-02 07:14:32] ERROR Configuration file not found
+[2025-11-30 02:36:21] INFO Processing batch job
+[2025-11-29 01:51:37] WARNING High network latency detected
+[2025-11-28 20:51:41] ERROR Configuration file not found
+[2025-11-30 16:42:20] WARNING SSL certificate expires in 30 days
+[2025-12-02 05:51:21] INFO Metrics published
+[2025-11-27 18:19:01] WARNING Retry limit reached for external API
+[2025-12-02 23:52:53] ERROR Memory allocation failed
+[2025-12-02 08:03:52] ERROR Failed to write to disk: Permission denied
+[2025-11-28 06:41:37] INFO Session created
+[2025-12-02 12:00:33] INFO Processing batch job
+[2025-11-29 07:58:28] INFO Request processed
+[2025-12-03 14:20:14] INFO Processing batch job
+[2025-12-01 02:48:56] INFO Service health check passed
+[2025-12-02 02:52:23] WARNING Connection pool exhausted
+[2025-11-29 08:44:00] ERROR Uncaught exception: Null pointer reference
+[2025-11-27 16:48:37] WARNING SSL certificate expires in 30 days
+[2025-11-29 19:46:00] ERROR Invalid authentication token provided
+[2025-12-03 02:39:27] WARNING SSL certificate expires in 30 days
+[2025-11-29 09:34:56] WARNING Retry limit reached for external API
+[2025-12-03 21:23:09] INFO User login: user123
+[2025-11-29 06:46:44] ERROR Uncaught exception: Null pointer reference
+[2025-12-01 18:32:02] INFO Data sync completed
+[2025-11-29 17:45:36] INFO Session created
+[2025-12-02 16:15:22] WARNING Retry limit reached for external API
+[2025-11-29 00:28:39] INFO Cache cleared successfully
+[2025-12-02 02:06:40] INFO Request processed
+[2025-12-01 22:31:31] INFO Backup completed
+[2025-12-02 01:52:08] INFO Backup completed
+[2025-11-28 06:54:33] INFO User login: user123
+[2025-12-02 16:07:58] ERROR Uncaught exception: Null pointer reference
+[2025-12-01 18:53:45] ERROR Invalid authentication token provided
+[2025-11-29 08:12:45] INFO Metrics published
+[2025-11-29 17:00:39] WARNING High network latency detected
+[2025-12-02 11:58:23] WARNING High network latency detected
+[2025-12-02 06:05:17] INFO Request processed
+[2025-11-28 10:03:07] INFO Data sync completed
+[2025-11-29 03:42:00] INFO Data sync completed
+[2025-12-01 09:33:58] WARNING Queue depth exceeding threshold
+[2025-11-27 19:16:50] WARNING Connection pool exhausted
+[2025-11-27 20:51:09] WARNING High network latency detected
+[2025-12-03 14:19:30] INFO Metrics published
+[2025-12-01 07:36:54] WARNING SSL certificate expires in 30 days
+[2025-11-27 07:40:55] ERROR Memory allocation failed
+[2025-12-02 02:46:38] ERROR Failed to write to disk: Permission denied
+[2025-11-30 10:50:02] ERROR Network timeout on external service
+[2025-12-03 11:21:57] INFO Data sync completed
+[2025-11-28 04:33:41] WARNING Connection pool exhausted
+[2025-11-28 16:51:55] INFO Service health check passed
+[2025-11-27 10:32:34] INFO Processing batch job
+[2025-11-28 05:47:29] INFO User login: user123
+[2025-12-01 17:25:28] INFO Metrics published
+[2025-11-30 12:57:42] ERROR Failed to write to disk: Permission denied
+[2025-11-28 09:29:40] WARNING High network latency detected
+[2025-11-30 09:13:01] INFO Session created
+[2025-12-03 12:17:04] INFO Data sync completed
+[2025-12-02 02:07:52] WARNING Memory usage at 85%
+[2025-11-27 18:02:55] INFO Service health check passed
+[2025-11-30 12:38:15] ERROR Uncaught exception: Null pointer reference
+[2025-11-27 23:41:28] ERROR Invalid authentication token provided
+[2025-12-02 16:26:43] WARNING Disk space low on /var partition
+[2025-11-27 06:12:51] INFO Session created
+[2025-12-02 19:49:23] ERROR Failed to write to disk: Permission denied
+[2025-12-01 08:23:09] ERROR Uncaught exception: Null pointer reference
+[2025-11-29 09:33:47] INFO Metrics published
+[2025-11-29 10:53:33] WARNING Memory usage at 85%
+[2025-11-28 07:37:14] ERROR Failed to write to disk: Permission denied
+[2025-12-02 17:24:53] INFO Service health check passed
+[2025-11-27 03:03:31] ERROR API rate limit exceeded
+[2025-12-01 05:25:34] ERROR API rate limit exceeded
+[2025-12-01 15:27:43] INFO Data sync completed
+[2025-12-02 07:42:19] INFO Cache cleared successfully
+[2025-11-28 15:38:21] ERROR Uncaught exception: Null pointer reference
+[2025-11-29 19:46:55] WARNING Queue depth exceeding threshold
+[2025-12-03 14:49:03] ERROR Network timeout on external service
+[2025-11-29 13:08:39] WARNING Memory usage at 85%
+[2025-12-03 19:25:24] ERROR API rate limit exceeded
+[2025-12-01 16:50:11] INFO Metrics published
+[2025-11-28 17:38:28] ERROR Invalid authentication token provided
+[2025-11-27 15:04:35] WARNING Connection pool exhausted
+[2025-11-28 11:27:44] INFO Processing batch job
+[2025-12-02 01:33:20] WARNING Background job timeout
+[2025-12-01 14:36:19] INFO Session created
+[2025-12-02 19:21:58] INFO Cache cleared successfully
+[2025-11-30 05:12:03] WARNING High network latency detected
+[2025-11-27 03:25:30] INFO Application started successfully
+[2025-12-03 02:40:46] ERROR Network timeout on external service
+[2025-11-29 16:55:18] WARNING High network latency detected
+[2025-12-01 14:04:41] WARNING Disk space low on /var partition
+[2025-12-01 19:19:39] INFO Session created
+[2025-11-29 03:08:31] WARNING Connection pool exhausted

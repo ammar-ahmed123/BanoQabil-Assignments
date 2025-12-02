@@ -1,0 +1,471 @@
+[2025-12-02 22:10:12] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:10:14] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:10:17] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:10:19] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:10:22] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:10:24] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:10:27] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:10:29] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:10:32] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:10:35] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:10:37] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:10:41] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:10:44] Memory usage is CRITICAL: 72%
+[2025-12-02 22:10:45] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:10:48] Memory usage is CRITICAL: 73%
+[2025-12-02 22:10:48] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:10:51] Memory usage is CRITICAL: 74%
+[2025-12-02 22:10:52] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:10:54] Memory usage is CRITICAL: 75%
+[2025-12-02 22:10:55] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:10:57] Memory usage is CRITICAL: 75%
+[2025-12-02 22:10:58] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:00] Memory usage is CRITICAL: 75%
+[2025-12-02 22:11:01] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:03] Memory usage is CRITICAL: 75%
+[2025-12-02 22:11:04] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:06] Memory usage is CRITICAL: 76%
+[2025-12-02 22:11:07] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:10] Memory usage is CRITICAL: 78%
+[2025-12-02 22:11:10] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:13] Memory usage is CRITICAL: 78%
+[2025-12-02 22:11:13] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:16] Memory usage is CRITICAL: 78%
+[2025-12-02 22:11:16] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:18] Memory usage is CRITICAL: 78%
+[2025-12-02 22:11:19] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:21] Memory usage is CRITICAL: 77%
+[2025-12-02 22:11:22] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:24] Memory usage is CRITICAL: 76%
+[2025-12-02 22:11:24] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:27] Memory usage is CRITICAL: 76%
+[2025-12-02 22:11:27] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:29] Memory usage is CRITICAL: 76%
+[2025-12-02 22:11:30] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:32] Memory usage is CRITICAL: 77%
+[2025-12-02 22:11:32] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:35] Memory usage is CRITICAL: 78%
+[2025-12-02 22:11:35] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:38] Memory usage is CRITICAL: 79%
+[2025-12-02 22:11:38] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:41] Memory usage is CRITICAL: 79%
+[2025-12-02 22:11:41] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:44] Memory usage is CRITICAL: 81%
+[2025-12-02 22:11:44] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:46] Memory usage is CRITICAL: 80%
+[2025-12-02 22:11:47] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:49] Memory usage is CRITICAL: 81%
+[2025-12-02 22:11:49] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:52] Memory usage is CRITICAL: 81%
+[2025-12-02 22:11:52] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:55] Memory usage is CRITICAL: 79%
+[2025-12-02 22:11:55] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:11:57] Memory usage is CRITICAL: 79%
+[2025-12-02 22:11:58] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:00] Memory usage is CRITICAL: 80%
+[2025-12-02 22:12:00] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:03] Memory usage is CRITICAL: 80%
+[2025-12-02 22:12:03] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:06] Memory usage is CRITICAL: 79%
+[2025-12-02 22:12:06] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:08] Memory usage is CRITICAL: 78%
+[2025-12-02 22:12:09] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:11] Memory usage is CRITICAL: 78%
+[2025-12-02 22:12:11] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:14] Memory usage is CRITICAL: 78%
+[2025-12-02 22:12:14] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:16] Memory usage is CRITICAL: 78%
+[2025-12-02 22:12:16] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:19] Memory usage is CRITICAL: 78%
+[2025-12-02 22:12:19] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:21] Memory usage is CRITICAL: 78%
+[2025-12-02 22:12:22] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:24] Memory usage is CRITICAL: 77%
+[2025-12-02 22:12:24] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:26] Memory usage is CRITICAL: 77%
+[2025-12-02 22:12:27] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:29] Memory usage is CRITICAL: 77%
+[2025-12-02 22:12:29] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:32] Memory usage is CRITICAL: 77%
+[2025-12-02 22:12:32] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:34] Memory usage is CRITICAL: 77%
+[2025-12-02 22:12:34] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:37] Memory usage is CRITICAL: 79%
+[2025-12-02 22:12:38] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:41] Memory usage is CRITICAL: 81%
+[2025-12-02 22:12:41] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:44] Memory usage is CRITICAL: 83%
+[2025-12-02 22:12:44] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:47] Memory usage is CRITICAL: 83%
+[2025-12-02 22:12:47] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:50] Memory usage is CRITICAL: 84%
+[2025-12-02 22:12:50] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:53] Memory usage is CRITICAL: 83%
+[2025-12-02 22:12:53] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:55] Memory usage is CRITICAL: 83%
+[2025-12-02 22:12:56] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:12:58] Memory usage is CRITICAL: 83%
+[2025-12-02 22:12:59] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:01] Memory usage is CRITICAL: 83%
+[2025-12-02 22:13:01] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:04] Memory usage is CRITICAL: 83%
+[2025-12-02 22:13:04] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:06] Memory usage is CRITICAL: 83%
+[2025-12-02 22:13:07] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:09] Memory usage is CRITICAL: 83%
+[2025-12-02 22:13:10] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:12] Memory usage is CRITICAL: 83%
+[2025-12-02 22:13:13] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:15] Memory usage is CRITICAL: 83%
+[2025-12-02 22:13:15] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:18] Memory usage is CRITICAL: 83%
+[2025-12-02 22:13:18] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:20] Memory usage is CRITICAL: 83%
+[2025-12-02 22:13:21] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:23] Memory usage is CRITICAL: 83%
+[2025-12-02 22:13:24] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:26] Memory usage is CRITICAL: 82%
+[2025-12-02 22:13:27] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:29] Memory usage is CRITICAL: 83%
+[2025-12-02 22:13:29] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:32] Memory usage is CRITICAL: 83%
+[2025-12-02 22:13:32] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:35] Memory usage is CRITICAL: 83%
+[2025-12-02 22:13:35] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:38] Memory usage is CRITICAL: 84%
+[2025-12-02 22:13:38] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:40] Memory usage is CRITICAL: 84%
+[2025-12-02 22:13:40] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:43] Memory usage is CRITICAL: 84%
+[2025-12-02 22:13:43] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:46] Memory usage is CRITICAL: 84%
+[2025-12-02 22:13:46] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:48] Memory usage is CRITICAL: 84%
+[2025-12-02 22:13:49] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:51] Memory usage is CRITICAL: 83%
+[2025-12-02 22:13:51] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:53] Memory usage is CRITICAL: 83%
+[2025-12-02 22:13:54] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:56] Memory usage is CRITICAL: 83%
+[2025-12-02 22:13:56] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:13:59] Memory usage is CRITICAL: 83%
+[2025-12-02 22:13:59] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:01] Memory usage is CRITICAL: 83%
+[2025-12-02 22:14:02] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:04] Memory usage is CRITICAL: 75%
+[2025-12-02 22:14:04] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:07] Memory usage is CRITICAL: 74%
+[2025-12-02 22:14:07] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:09] Memory usage is CRITICAL: 74%
+[2025-12-02 22:14:09] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:12] Memory usage is CRITICAL: 74%
+[2025-12-02 22:14:12] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:14] Memory usage is CRITICAL: 74%
+[2025-12-02 22:14:15] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:17] Memory usage is CRITICAL: 76%
+[2025-12-02 22:14:18] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:20] Memory usage is CRITICAL: 78%
+[2025-12-02 22:14:20] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:23] Memory usage is CRITICAL: 79%
+[2025-12-02 22:14:23] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:26] Memory usage is CRITICAL: 81%
+[2025-12-02 22:14:26] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:28] Memory usage is CRITICAL: 81%
+[2025-12-02 22:14:29] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:31] Memory usage is CRITICAL: 81%
+[2025-12-02 22:14:31] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:33] Memory usage is CRITICAL: 81%
+[2025-12-02 22:14:34] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:36] Memory usage is CRITICAL: 81%
+[2025-12-02 22:14:36] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:39] Memory usage is CRITICAL: 81%
+[2025-12-02 22:14:39] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:41] Memory usage is CRITICAL: 80%
+[2025-12-02 22:14:42] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:44] Memory usage is CRITICAL: 80%
+[2025-12-02 22:14:44] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:47] Memory usage is CRITICAL: 79%
+[2025-12-02 22:14:47] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:49] Memory usage is CRITICAL: 79%
+[2025-12-02 22:14:50] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:52] Memory usage is CRITICAL: 79%
+[2025-12-02 22:14:52] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:54] Memory usage is CRITICAL: 79%
+[2025-12-02 22:14:55] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:57] Memory usage is CRITICAL: 79%
+[2025-12-02 22:14:57] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:14:59] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:00] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:02] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:02] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:05] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:05] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:07] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:08] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:10] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:10] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:13] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:13] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:15] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:16] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:18] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:18] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:21] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:21] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:23] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:24] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:26] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:26] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:29] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:29] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:31] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:32] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:34] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:34] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:36] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:37] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:39] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:39] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:42] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:42] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:44] Memory usage is CRITICAL: 81%
+[2025-12-02 22:15:45] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:47] Memory usage is CRITICAL: 81%
+[2025-12-02 22:15:47] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:50] Memory usage is CRITICAL: 81%
+[2025-12-02 22:15:50] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:52] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:53] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:55] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:55] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:15:57] Memory usage is CRITICAL: 80%
+[2025-12-02 22:15:58] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:00] Memory usage is CRITICAL: 80%
+[2025-12-02 22:16:01] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:03] Memory usage is CRITICAL: 80%
+[2025-12-02 22:16:03] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:05] Memory usage is CRITICAL: 80%
+[2025-12-02 22:16:06] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:08] Memory usage is CRITICAL: 80%
+[2025-12-02 22:16:08] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:10] Memory usage is CRITICAL: 80%
+[2025-12-02 22:16:11] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:13] Memory usage is CRITICAL: 80%
+[2025-12-02 22:16:13] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:16] Memory usage is CRITICAL: 80%
+[2025-12-02 22:16:16] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:19] Memory usage is CRITICAL: 83%
+[2025-12-02 22:16:20] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:22] Memory usage is CRITICAL: 83%
+[2025-12-02 22:16:23] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:25] Memory usage is CRITICAL: 85%
+[2025-12-02 22:16:26] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:29] Memory usage is CRITICAL: 87%
+[2025-12-02 22:16:29] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:32] Memory usage is CRITICAL: 87%
+[2025-12-02 22:16:32] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:34] Memory usage is CRITICAL: 88%
+[2025-12-02 22:16:34] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:37] Memory usage is CRITICAL: 87%
+[2025-12-02 22:16:37] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:39] Memory usage is CRITICAL: 87%
+[2025-12-02 22:16:40] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:42] Memory usage is CRITICAL: 87%
+[2025-12-02 22:16:42] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:45] Memory usage is CRITICAL: 87%
+[2025-12-02 22:16:45] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:47] Memory usage is CRITICAL: 87%
+[2025-12-02 22:16:48] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:50] Memory usage is CRITICAL: 87%
+[2025-12-02 22:16:50] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:52] Memory usage is CRITICAL: 87%
+[2025-12-02 22:16:53] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:55] Memory usage is CRITICAL: 87%
+[2025-12-02 22:16:56] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:16:59] Memory usage is CRITICAL: 83%
+[2025-12-02 22:16:59] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:01] Memory usage is CRITICAL: 83%
+[2025-12-02 22:17:02] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:04] Memory usage is CRITICAL: 83%
+[2025-12-02 22:17:04] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:07] Memory usage is CRITICAL: 83%
+[2025-12-02 22:17:07] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:10] Memory usage is CRITICAL: 83%
+[2025-12-02 22:17:10] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:12] Memory usage is CRITICAL: 82%
+[2025-12-02 22:17:13] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:15] Memory usage is CRITICAL: 78%
+[2025-12-02 22:17:15] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:18] Memory usage is CRITICAL: 77%
+[2025-12-02 22:17:18] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:21] Memory usage is CRITICAL: 76%
+[2025-12-02 22:17:21] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:23] Memory usage is CRITICAL: 76%
+[2025-12-02 22:17:24] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:26] Memory usage is CRITICAL: 75%
+[2025-12-02 22:17:26] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:29] Memory usage is CRITICAL: 75%
+[2025-12-02 22:17:29] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:31] Memory usage is CRITICAL: 75%
+[2025-12-02 22:17:32] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:34] Memory usage is CRITICAL: 72%
+[2025-12-02 22:17:35] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:37] Memory usage is CRITICAL: 72%
+[2025-12-02 22:17:37] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:39] Memory usage is CRITICAL: 72%
+[2025-12-02 22:17:40] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:42] Memory usage is CRITICAL: 72%
+[2025-12-02 22:17:42] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:45] Memory usage is CRITICAL: 72%
+[2025-12-02 22:17:45] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:47] Memory usage is CRITICAL: 72%
+[2025-12-02 22:17:48] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:50] Memory usage is CRITICAL: 72%
+[2025-12-02 22:17:50] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:53] Memory usage is CRITICAL: 72%
+[2025-12-02 22:17:53] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:56] Memory usage is CRITICAL: 75%
+[2025-12-02 22:17:56] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:17:59] Memory usage is CRITICAL: 76%
+[2025-12-02 22:18:00] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:02] Memory usage is CRITICAL: 78%
+[2025-12-02 22:18:03] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:05] Memory usage is CRITICAL: 78%
+[2025-12-02 22:18:05] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:07] Memory usage is CRITICAL: 78%
+[2025-12-02 22:18:08] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:10] Memory usage is CRITICAL: 78%
+[2025-12-02 22:18:10] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:13] Memory usage is CRITICAL: 79%
+[2025-12-02 22:18:13] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:16] Memory usage is CRITICAL: 79%
+[2025-12-02 22:18:16] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:19] Memory usage is CRITICAL: 80%
+[2025-12-02 22:18:19] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:21] Memory usage is CRITICAL: 80%
+[2025-12-02 22:18:22] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:24] Memory usage is CRITICAL: 80%
+[2025-12-02 22:18:24] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:27] Memory usage is CRITICAL: 85%
+[2025-12-02 22:18:27] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:29] Memory usage is CRITICAL: 85%
+[2025-12-02 22:18:30] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:32] Memory usage is CRITICAL: 84%
+[2025-12-02 22:18:32] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:35] Memory usage is CRITICAL: 84%
+[2025-12-02 22:18:35] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:37] Memory usage is CRITICAL: 83%
+[2025-12-02 22:18:38] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:40] Memory usage is CRITICAL: 83%
+[2025-12-02 22:18:40] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:42] Memory usage is CRITICAL: 83%
+[2025-12-02 22:18:43] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:45] Memory usage is CRITICAL: 83%
+[2025-12-02 22:18:45] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:48] Memory usage is CRITICAL: 84%
+[2025-12-02 22:18:48] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:50] Memory usage is CRITICAL: 83%
+[2025-12-02 22:18:51] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:53] Memory usage is CRITICAL: 83%
+[2025-12-02 22:18:53] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:55] Memory usage is CRITICAL: 83%
+[2025-12-02 22:18:56] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:18:59] Memory usage is CRITICAL: 84%
+[2025-12-02 22:18:59] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:02] Memory usage is CRITICAL: 85%
+[2025-12-02 22:19:02] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:04] Memory usage is CRITICAL: 84%
+[2025-12-02 22:19:05] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:07] Memory usage is CRITICAL: 85%
+[2025-12-02 22:19:07] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:11] Memory usage is CRITICAL: 85%
+[2025-12-02 22:19:12] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:14] Memory usage is CRITICAL: 85%
+[2025-12-02 22:19:14] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:17] Memory usage is CRITICAL: 85%
+[2025-12-02 22:19:17] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:19] Memory usage is CRITICAL: 85%
+[2025-12-02 22:19:20] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:22] Memory usage is CRITICAL: 85%
+[2025-12-02 22:19:22] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:24] Memory usage is CRITICAL: 85%
+[2025-12-02 22:19:25] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:27] Memory usage is CRITICAL: 85%
+[2025-12-02 22:19:27] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:29] Memory usage is CRITICAL: 85%
+[2025-12-02 22:19:30] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:32] Memory usage is CRITICAL: 85%
+[2025-12-02 22:19:32] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:35] Memory usage is CRITICAL: 85%
+[2025-12-02 22:19:35] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:37] Memory usage is CRITICAL: 85%
+[2025-12-02 22:19:37] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:40] Memory usage is CRITICAL: 84%
+[2025-12-02 22:19:40] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:42] Memory usage is CRITICAL: 84%
+[2025-12-02 22:19:42] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:45] Memory usage is CRITICAL: 84%
+[2025-12-02 22:19:45] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:48] Memory usage is CRITICAL: 73%
+[2025-12-02 22:19:48] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:51] Memory usage is CRITICAL: 74%
+[2025-12-02 22:19:51] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:19:53] Memory usage is CRITICAL: 74%
+[2025-12-02 22:19:53] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:57:05] Memory usage is CRITICAL: 77%
+[2025-12-02 22:57:05] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:57:07] Memory usage is CRITICAL: 77%
+[2025-12-02 22:57:08] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:57:10] Memory usage is CRITICAL: 77%
+[2025-12-02 22:57:10] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:57:12] Memory usage is CRITICAL: 77%
+[2025-12-02 22:57:13] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:57:15] Memory usage is CRITICAL: 77%
+[2025-12-02 22:57:15] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:57:18] Memory usage is CRITICAL: 76%
+[2025-12-02 22:57:18] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:57:20] Memory usage is CRITICAL: 76%
+[2025-12-02 22:57:20] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:57:23] Memory usage is CRITICAL: 76%
+[2025-12-02 22:57:23] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:57:25] Memory usage is CRITICAL: 77%
+[2025-12-02 22:57:25] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:57:28] Memory usage is CRITICAL: 77%
+[2025-12-02 22:57:28] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:57:31] Memory usage is CRITICAL: 77%
+[2025-12-02 22:57:31] Disk /f usage is CRITICAL: 65%
+[2025-12-02 22:57:33] Memory usage is CRITICAL: 77%
+[2025-12-02 22:57:33] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:10:54] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:10:57] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:10:59] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:11:02] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:11:04] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:11:07] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:11:09] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:11:12] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:11:15] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:11:17] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:11:20] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:11:22] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:11:25] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:15:05] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:15:07] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:15:10] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:15:12] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:15:15] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:15:18] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:15:21] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:15:23] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:15:26] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:15:28] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:15:31] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:15:33] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:15:36] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:59:17] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:59:20] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:59:22] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:59:25] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:59:27] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:59:30] Disk /f usage is CRITICAL: 65%
+[2025-12-02 23:59:32] Disk /f usage is CRITICAL: 65%
